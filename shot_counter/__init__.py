@@ -1,0 +1,1 @@
+from shot_counter.counter import Counter
